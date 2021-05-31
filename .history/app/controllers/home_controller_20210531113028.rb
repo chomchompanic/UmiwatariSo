@@ -11,5 +11,8 @@ class HomeController < ApplicationController
 
   def access
   end
+
+  def contact
+  end
   
 end
