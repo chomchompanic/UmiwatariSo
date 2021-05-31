@@ -11,5 +11,5 @@ class HomeController < ApplicationController
 
   def access
   end
-
+  
 end
