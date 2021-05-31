@@ -82,5 +82,5 @@ Rails.application.configure do
       :password => Rails.application.credentials.g_mail[:g_pass], #2段階認証パスワード
       :authentication => :plain,
       :enable_starttls_auto => true
-  }
+      
 end
