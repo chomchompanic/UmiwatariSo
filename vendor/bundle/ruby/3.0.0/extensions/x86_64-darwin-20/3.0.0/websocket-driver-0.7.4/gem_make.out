@@ -1,0 +1,15 @@
+current directory: /Users/chom/UmiwatariSo/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+/Users/chom/.rbenv/versions/3.0.1/bin/ruby -I /Users/chom/.rbenv/versions/3.0.1/lib/ruby/3.0.0 -r ./siteconf20210531-50761-nvg7ix.rb extconf.rb
+creating Makefile
+
+current directory: /Users/chom/UmiwatariSo/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /Users/chom/UmiwatariSo/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/chom/UmiwatariSo/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20210531-50761-p690up
